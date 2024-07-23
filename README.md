@@ -1,7 +1,7 @@
-PIZZA-SALES-ANALYSIS-USING-SQL
+**PIZZA-SALES-ANALYSIS-USING-SQL**
 From total revenue generated from pizza sales to top 3 most ordered pizza types based on revenue for each pizza category, there are 20 different queries are executed to Analyze the Sales data of Pizza Company.
 
-Key Highlights:
+**Key Highlights:**
 
 I have used 4 different tables and from basic to advanced queries to retrieve these all queries -->
 
